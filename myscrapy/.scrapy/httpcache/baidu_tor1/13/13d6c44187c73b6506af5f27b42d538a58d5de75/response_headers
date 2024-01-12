@@ -1,0 +1,17 @@
+Date: Mon, 25 Dec 2023 06:43:14 GMT
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=0, must-revalidate
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8aT%2BSbBbZbQPBYvc%2Ff9fnFXUemMhqJpHjOieC14VvM1Pj157rFayO3K3UeWbuA9ROlJzrEYmoG%2BrXrLiHKh%2BMijJwkg5xsQzSgptAWoEUADH19DHi6ZtQ5La29azK4tMlIY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: __cf_bm=j9Sn_uj78ii6pSefhbGprIRW2D_4vz.ileQiAckvQIM-1703486594-1-AQ8nlywNUFCQulVC7fgdxsF9doPMiRdZ0qoAZ/k4c0GHofHDq/DbkR1707tmfBhGttFxCwjwhjF1/wMxT7NGE5Y=; path=/; expires=Mon, 25-Dec-23 07:13:14 GMT; domain=.uniswap.org; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Content-Security-Policy: script-src 'self' https://www.google-analytics.com https://www.googletagmanager.com 'unsafe-inline'; report-uri https://uniswaplabs.report-uri.com/r/t/csp/reportOnly
+Content-Security-Policy-Report-Only: default-src 'self'; script-src 'self' 'wasm-unsafe-eval' 'unsafe-eval' https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://api.uniswap.org https://o1037921.ingest.sentry.io https://mainnet.infura.io https://cloudflare-ipfs.com https://raw.githubusercontent.com https://tokens.coingecko.com https://bridge.arbitrum.io https://static.optimism.io https://celo-org.github.io https://www.gemini.com https://tokenlist.arbitrum.io https://gateway.ipfs.io/ https://arbitrum-mainnet.infura.io/ https://optimism-mainnet.infura.io/ https://polygon-mainnet.infura.io/ https://base-mainnet.infura.io/ https://avalanche-mainnet.infura.io/ https://forno.celo.org/ wss://www.walletlink.org/rpc https://explorer-api.walletconnect.com wss://relay.walletconnect.com/ https://temp.api.uniswap.org/ https://us-central1-uniswap-mobile.cloudfunctions.net/ https://ultra-blue-flower.quiknode.pro https://api.thegraph.com/ https://api.moonpay.com/ https://old-wispy-arrow.bsc.quiknode.pro/; img-src 'self' https://i.seadn.io/ https://cdn.center.app/ https://raw.githubusercontent.com/ https://assets.coingecko.com/ https://static.optimism.io/ https://ethereum-optimism.github.io/ https://explorer-api.walletconnect.com/ https://s2.coinmarketcap.com/ https://openseauserdata.com/ https://raw.seadn.io/ https://lh3.googleusercontent.com/ data:; style-src 'self' 'unsafe-inline' 'unsafe-eval'; frame-src 'self' https://verify.walletconnect.com/ https://verify.walletconnect.org/ https://buy.moonpay.com/; worker-src * blob:;  report-to https://uniswaplabs.report-uri.com/r/t/csp/reportOnly;
+Server: cloudflare
+Cf-Ray: 83af1bccce771684-SJC
+Content-Encoding: gzip
