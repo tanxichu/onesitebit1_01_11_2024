@@ -4,7 +4,7 @@ from selenium.webdriver.firefox.options import Options
 def create_firefox_driver():
     options = Options()
 
-    # 设置无头模式   options.headless = True   这个在win中不行
+    # 设置无头模式   options.headless = True   这个在win中不行，下面的才可以
     options.add_argument("--headless")
 
     # 设置首选项
